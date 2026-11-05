@@ -1,7 +1,0 @@
-filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
-.gitignore,7,1788366166,62a8431ad8408617280000000700000000000000,0,,0,quickxor
-Makefile,431,1788364438,521a3a43b1bced76475f453be9638a9bd2238e1b,0,,0,quickxor
-README.md,595,1788363283,64e5a197032a0ea4fa57c8096cdbce1c6f8763ad,0,,0,quickxor
-main.tex,66993,1789256276,d6f4df6de038243f4061f6a13ee20bf7b6fa9edc,0,,0,quickxor
-reading_and_figure_guide.md,20693,1788363283,f07aac8895f8fdb903a20da5c67b11d5b18d09ce,0,,0,quickxor
-references.bib,10120,1788366971,831aaba1721bb2f60a6ad5fee7c817b74def546a,0,,0,quickxor
