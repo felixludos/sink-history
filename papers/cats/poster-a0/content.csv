@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+README.md,4839,1792703090,810c0f1c3b2ce49aec8e0b465b1810a764688dd9,0,,0,quickxor
+export-pdf.cjs,5013,1792702999,ad16fcce583b4f3cdf72b12d5af1871d989e7842,0,,0,quickxor
+package.json,282,1792703090,d1ed7047faf747cddcd2aff26b2c6128a29ae443,0,,0,quickxor
+poster.html,5976445,1792702999,13a954dbf187c50a7c7af01bd5519e8fb36874c6,0,,0,quickxor
+source-paper.pdf,2651026,1792681800,def336cee385dcbba027ffb5048a27e3648d2484,0,,0,quickxor

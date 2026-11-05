@@ -1,0 +1,19 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+"ChatGPT Image Oct 23, 2026, 01_38_44 PM.png",1615207,1792755536,28938dd4a9f66fff856ddec185c2c71b3db33d10,0,,0,quickxor
+"ChatGPT Image Oct 23, 2026, 01_39_02 PM.png",1302326,1792755549,8256a9f60a19dfe7ea3068918d62e85fe7c5e391,0,,0,quickxor
+"ChatGPT Image Oct 23, 2026, 01_39_13 PM.png",1435389,1792755567,47bf6af760df5499e5f49861547eeb884992cc3f,0,,0,quickxor
+"ChatGPT Image Oct 23, 2026, 01_39_31 PM.png",1007287,1792755635,1ac333f71b0c7e32cd97f187c0d8922f5acf0587,0,,0,quickxor
+FILE-INDEX.txt,1153,1792704033,59f59186b1ba7b6d7a25ac1cccb8ef26fb001163,0,,0,quickxor
+Gemini_Generated_Image_bplq67bplq67bplq.jpg,3297010,1792691700,87ac56d77233fd18791c42bc7b2c638096ccd7d5,0,,0,quickxor
+Gemini_Generated_Image_xcrdcmxcrdcmxcrd.jpg,3411029,1792691700,7a932df610674eea70bac3f1a4fd37757a1c45a6,0,,0,quickxor
+Gemini_Generated_Image_zaxln9zaxln9zaxl.jpg,3429651,1792691700,b6bb29ead0c2ff4e22e4808bb9424c2b4ef12299,0,,0,quickxor
+OpenGameArt_Slime_Madjestiko.png,169011,1792691700,e31f97a14562a722d30429ec4de177246aa0e989,0,,0,quickxor
+artifacts.png,546986,1792691700,750d6f211ddbe179490dad94305d781f5490f5b4,0,,0,quickxor
+biases.png,413257,1792691700,56f86f205a3b333ef4c6bedbfb3559b2fb04e9e7,0,,0,quickxor
+causal-monsters-A0-editable.zip,9592952,1792703115,69d43fc8d2622dd65397cd332c74f3cce3a64d8f,0,,0,quickxor
+confounding.png,333287,1792691700,ab7c0d2d1bb8a4d48d7e49899b6e28b485a5b39c,0,,0,quickxor
+leakage.png,296868,1792691700,b3bc13b008c9c42853a90c78d0b246634906df98,0,,0,quickxor
+mediation.png,391227,1792691700,6a7bee2e23a1f78001e9c8e53b5cd163e20e7412,0,,0,quickxor
+saved-files.json,1601,1792704033,1a6d4dacef94510ad2f590de81146be9e83a9864,0,,0,quickxor
+shortcuts.png,186639,1792691700,fafe0aad45f32a6bd6673df6dec4e84042a4b0ef,0,,0,quickxor
+spurious_correlations.png,307353,1792691700,895784bb90cfbb80ca970d0df455bcf9bb2f0137,0,,0,quickxor

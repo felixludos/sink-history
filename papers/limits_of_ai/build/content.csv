@@ -1,0 +1,10 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+main.aux,19368,1789256277,dc480ba6ea149a09da2050a8fef11ae8e5a1c19a,0,,0,quickxor
+main.bbl,7997,1789256260,9cf4b56aeed7ef0dde831b152ed50ad61e905850,0,,0,quickxor
+main.blg,1604,1789256260,22ed9071b91fcc19266520fd2193e0cf6252b951,0,,0,quickxor
+main.fdb_latexmk,33417,1789256277,d033c22ce9aebb8fdbf01fa872f7a3b1f3e3f1da,0,,0,quickxor
+main.fls,40489,1789256277,55e49bc409371ed1212e4bfc566d17586091a623,0,,0,quickxor
+main.log,66351,1789256277,55b4d4eb79bfa289574999a0358a4f595eff22d0,0,,0,quickxor
+main.pdf,264309,1789256277,7196baeac11a585f069037a8a3051eabb4818dea,0,,0,quickxor
+main.synctex.gz,205007,1789256277,3d94e1528e6e7ca6bc43126db197de1a99b68fd3,0,,0,quickxor
+main.toc,3106,1789256277,d04cc892fde39cc67d21e0e7bd317f0c3cfa68e7,0,,0,quickxor
