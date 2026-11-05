@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+image2vector (1).svg,78094,1781976042,067665b690bb6c4334f009431819da4124f9693c,0,,0,quickxor
+image2vector.svg,19969,1781976042,c2fbb19f3a23b0767d064c7a83d7d867dd48fd1a,0,,0,quickxor
+maity-icon.svg,6543,1781976042,0b58c0917076fd8dc7ce70b6d501b4904644c5d3,0,,0,quickxor
+maity-logo.svg,25960,1781976042,b8f27d41de6048ba0d149fef5f5ae1280d169cb9,0,,0,quickxor

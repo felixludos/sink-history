@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+font-comparison.jpg,181261,1781976042,df6d90adea03489b72cc91e6a042c312071003b6,0,,0,quickxor
