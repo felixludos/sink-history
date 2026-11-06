@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+docket_backup.zip,17450811,1776444046,1933edbc6a061c60d84792ed664056a20d0445f9,0,,0,quickxor

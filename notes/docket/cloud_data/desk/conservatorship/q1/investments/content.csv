@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+401k citrix.pdf,136805,1792351260,6bed054bbdd6ae2693c8fbba9bfa0ebbcfca0d86,0,,0,quickxor
+401k ms.pdf,221162,1792351260,6b967d0c9138a82bf49ae60837a3c257a31aff51,0,,0,quickxor
+hsa_analysis_report.pdf,2278956,1792351260,0be597b8bb6d52d2578df2c887ca4ec8c2a64438,0,,0,quickxor
+trust_analysis_report.pdf,2381948,1792351260,def4d70749282bf4b4921b58c822bcde0317299d,0,,0,quickxor

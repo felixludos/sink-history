@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Q2_report_external_DRAFT.pdf,315036,1792789276,348edc223cb16581960a8e7a99f97009f105413f,0,,0,quickxor
+Q2_report_internal_DRAFT.pdf,337259,1792789277,437167c32e012b08de13f813f33255af35fad744,0,,0,quickxor
+cards_table.tex,725,1792435772,c5ca3c800b9b70a0d9417f02b0039bfca7aefaf0,0,,0,quickxor
+main.tex,49640,1792789275,7975ea53489e67e07906d77f52b2dca4099055ba,0,,0,quickxor
+tx_q2.tex,5361,1792435772,1851cbd138cac9a5d2da5cb3cdb6783d9dde7f09,0,,0,quickxor

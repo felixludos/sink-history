@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Q2_2026_attachments.zip,13629656,1792439467,9e4cc3d60c8e7f2bf1aacd3ee122765be6a0afb8,0,,0,quickxor
+Q2_Quarterly_Family_Report_2026.pdf,314879,1792504960,2708eebed9c48d5f4e1c9be84dbd7bd7fa26d393,0,,0,quickxor
+Q2_Quarterly_Family_Report_2026_rev1.pdf,315036,1792789277,348edc223cb16581960a8e7a99f97009f105413f,0,,0,quickxor
+Q2_report_latex_source.zip,129483,1792504961,de60bd903610e4501ce5bc6e14d0505928ae71da,0,,0,quickxor
+Q2_report_main.tex,49426,1792504961,393e0895f6ed93574b3373ba469e7cf8a5efab8e,0,,0,quickxor
