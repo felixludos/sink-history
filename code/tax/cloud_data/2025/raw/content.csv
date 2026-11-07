@@ -1,0 +1,17 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+fe-webull-2025-1099-sales-transcribed.csv,739,1789424093,001e80e61982458bdab75c1c6a0406a551f79417,0,,0,quickxor
+fidelity-cash-2025-activity.csv,8683,1788971129,a682112a2e5e492b43afe82bb87f3d6e702c91f2,0,,0,quickxor
+fidelity-cash-2025-closed-positions.csv,133,1788971129,c497ad03f6ee6a09ccd0af0217e420de336e13d4,0,,0,quickxor
+fidelity-fela-2025-activity.csv,5496,1788971129,4ff715aae2852cc38f34eff5dd86a812932fcc38,0,,0,quickxor
+fidelity-fela-2025-closed-positions.csv,133,1788971129,c497ad03f6ee6a09ccd0af0217e420de336e13d4,0,,0,quickxor
+fidelity-international-2025-activity.csv,4806,1788971129,f3321d716c3c4c21aec1aae89871b1059c68dff9,0,,0,quickxor
+fidelity-international-2025-closed-positions.csv,1328,1788971129,b3dccba156b3f6b3f1ebf3509d17d38a49d4ccce,0,,0,quickxor
+fidelity-investment-2025-activity.csv,32079,1788971129,9a6008ce33967e13d922868f9e4a9a519a21b227,0,,0,quickxor
+fidelity-investment-2025-closed-positions.csv,11956,1788971129,4c16f81161ddf0213934bf57821cb8e62f33a22f,0,,0,quickxor
+ibkr-2025-dec31-info.xml,23129,1788971129,1deb0ccd2fb3de71c18ab3e12854d57882e3c7a4,0,,0,quickxor
+ibkr-2025-jan1-info.xml,20448,1788971129,eee390af98917b2f93eddd1e1f64a25e64c9b3a9,0,,0,quickxor
+la-cash-2025-1099-transcribed.csv,3533,1789421541,ef19e48788619a9342f8003875f1be9b9a6f1922,0,,0,quickxor
+la-investing-2025-1099-sales-transcribed.csv,244,1789421541,0265287eed08ad3b90ac793658763383be9ed704,0,,0,quickxor
+la-investing-2025-1099-transcribed.csv,6748,1789421541,9f114f0af9654f282557d356ede2d4551765d589,0,,0,quickxor
+la-webull-2025-1099-transcribed.csv,2471,1789421541,7e29294c226d8346107a8ef30010bb7d0e7f02d6,0,,0,quickxor
+otax-ai.xml,186182,1788993416,d8041523eadcff94bb616bd40f12e12dd1fb4a88,0,,0,quickxor

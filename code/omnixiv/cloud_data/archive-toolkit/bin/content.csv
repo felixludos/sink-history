@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+archive,5020,1792595565,6deffb3a8df35d5b8320d174f9413147147e0455,0,,0,quickxor

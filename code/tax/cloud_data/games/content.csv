@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+valid.csv,1017748,1788971129,1fe27a45d912f101000fd04b2ca2d0099a9b1096,0,,0,quickxor

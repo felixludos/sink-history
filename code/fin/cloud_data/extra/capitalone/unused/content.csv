@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+2023-09-30_transaction_download.csv,15614,1783210701,a7635a3707a2040d3fba2977154ee92f3dae4cb5,0,,0,quickxor
+2023-10-05_transaction_download (1).csv,6490,1783210701,175a3866b18e1e57a03b2ded503e8e9837b9081c,0,,0,quickxor
+capitalone.yml,34418,1783210701,40aa8ef25f1d2bef7cb29c2a6f27a75c94489de4,0,,0,quickxor

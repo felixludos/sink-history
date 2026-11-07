@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+SKILL.md,1472,1792595309,90d7b4e73b0535fd286cf55b6135fd55c706a4b1,0,,0,quickxor

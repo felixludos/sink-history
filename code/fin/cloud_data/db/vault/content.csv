@@ -1,0 +1,12 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+accounts 1.yml,5697,1783210701,8e6a7ffb6aab3350f2d89e24c92f5fbaf81efb83,0,,0,quickxor
+accounts.yml,7655,1783210701,e18cefce0c1b546624aaa22762ecd00fe5328f35,0,,0,quickxor
+assets 1.yml,3427,1783210701,ac939cd921780fe316835192df11d6d9096f81cb,0,,0,quickxor
+assets.yml,3491,1783210701,4e8fb7849bee1e1f265f236b8b6729555bc0492a,0,,0,quickxor
+demo.db,389120,1783210701,36238aacbff1b7d1252362aff82a5f858925f8b6,0,,0,quickxor
+old-omnifin.db,385024,1783210701,0ca2cc84cd9b45d5c4d6838ea15f66ad25ab8ca8,0,,0,quickxor
+old-symbol-map.yml,521,1783210701,388304ed905ba638a539485408509d011288a0ee,0,,0,quickxor
+omnifin.db,106496,1783210701,f4dda2572f9dc6d351beca04c50d6cface05baa5,0,,0,quickxor
+shortcuts.yml,864,1783210701,19fb9ea7a347b89ab03289d89a0b9433b0fbd32e,0,,0,quickxor
+symbol-map.yml,417,1783210701,9a5c4a9161bd40f7aa57d07d104adfd9cdfc5b33,0,,0,quickxor
+tags.yml,2934,1783210701,6f4ce2d65852e40a3bd361771a680d02f63cd159,0,,0,quickxor

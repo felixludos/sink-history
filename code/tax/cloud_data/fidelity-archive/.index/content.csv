@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+fzrox.jsonl,18018,1789319765,6e2872fee9555c897a4eac00645de849f7ae299a,0,,0,quickxor
+inventory.json,71623,1789319765,881aba047c141115fa62f6ed2d03264d107ac948,0,,0,quickxor
+records.jsonl,2054018,1789319765,0c5de47136d375ce73971fedf6e0ff56d8ac6508,0,,0,quickxor

@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+prepare_inputs.py,11467,1789424092,cba45d3c6746c96e7fa3eec4bdaae57b042a50c5,0,,0,quickxor
+regenerate_reports.py,30607,1789424679,35eb6dab420f88eab910624c01db439535df60bf,0,,0,quickxor
+taxpayer-controls.json,18192,1789424093,d8b59fa86f61faaec52ea4bba746fae5b40accf2,0,,0,quickxor
+taxpayer-form-reconciliation.md,12393,1789425747,a284bf5cc3ca8b64a8c71a144ba5beac905bf44a,0,,0,quickxor
+verify_reports.py,4090,1789424642,3105024ad53b53df29277a2dcc06e630d6695091,0,,0,quickxor

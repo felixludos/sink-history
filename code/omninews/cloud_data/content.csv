@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+script.json,18135,1783419455,1bafbb95b96177896a82d49663a80e824346c283,0,,0,quickxor

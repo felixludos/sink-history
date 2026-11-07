@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+heritage-2023.csv,2150,1783210702,530d2f46e891142cc5d99751f9c4d90e97a5047d,0,,0,quickxor
+heritage-21-23.csv,3138,1783210702,917f417c8c506a264d305389167197a8e7dde06d,0,,0,quickxor
+heritage.csv,4902,1783210702,d412858ba04812503e22b173bc3933d0204e5e5e,0,,0,quickxor
