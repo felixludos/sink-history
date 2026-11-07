@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+budget.pdf,31568,1792504219,5a9dc03bac6f5ee6973b9aafc961de68f9d1fd77,0,,0,quickxor
+card_spending.csv,397,1792435773,1e5e20e946d2d330bc94c8edfc7bd1df80b5f258,0,,0,quickxor
+card_spending.pdf,30118,1792504220,05ea0b7178fdd22bbc0e691516af0f9ddc67c1cd,0,,0,quickxor
+estate.pdf,32779,1792504220,6759afe15b83e6b6e5616158298eeb0d5f029736,0,,0,quickxor
+money_flow.pdf,36108,1792504219,268ed677a50448f3edb43449acdbac521195e5da,0,,0,quickxor

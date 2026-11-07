@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+401kPlanMs.pdf,28141843,1793983062,55d803d17b0d7929589ce719d6a7ff8c8f74d1c0,0,,0,quickxor
+Scan - 2026-10-13 18_11_28.pdf,1166463,1793983062,44c3fa45137c84b7905ee952a27fa5b7ea2ae009,0,,0,quickxor
+Scan - 2026-10-15 10_26_44.pdf,5513624,1793983062,bc628c808c11ff598d266e410b3497412f77cb03,0,,0,quickxor

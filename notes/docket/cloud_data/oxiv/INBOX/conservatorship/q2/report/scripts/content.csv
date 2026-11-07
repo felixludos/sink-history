@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+build_ledger.py,74352,1792435776,4900b0c7d0c4577bf77d023e6d2b11e340b057bb,0,,0,quickxor
+figs.py,12114,1792504221,6ab632536767a39278a74628d3e98d0e78c95db3,0,,0,quickxor
+gen_tables.py,1957,1792435776,6471276305b9b7db543637f7aa50fdb11c0c10bd,0,,0,quickxor
+redact.py,2005,1792435777,48e462173585ca2c6145365d93371c7f8b774070,0,,0,quickxor

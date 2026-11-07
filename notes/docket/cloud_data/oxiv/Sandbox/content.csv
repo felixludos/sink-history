@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+AGENTS.md,3892,1794004069,47bffde78d2c35fce0d3c868d88429ffe9d025c4,0,,0,quickxor
+INDEX.md,6295,1794004773,e1622ab911a0f0adef9d5cd0e7a8456eeffd3abe,0,,0,quickxor
+README.md,143,1794004069,fd21bfcf2b9662e832500d1d8afef1e99fe6de56,0,,0,quickxor
+inventory.json,30701,1794004773,1796e8e42e1963332274548acbae5e067cf0ea27,0,,0,quickxor

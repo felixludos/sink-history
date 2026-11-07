@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Q2_Quarterly_Family_Report_2026-2.pdf,314879,1792504960,2708eebed9c48d5f4e1c9be84dbd7bd7fa26d393,0,,0,quickxor
+Q2_Quarterly_Family_Report_2026.pdf,314100,1792504954,ede8f05bd6104bf7e22be668eea7dabce5986ad6,0,,0,quickxor
+Q2_report_external_DRAFT.pdf,315036,1792789276,348edc223cb16581960a8e7a99f97009f105413f,0,,0,quickxor

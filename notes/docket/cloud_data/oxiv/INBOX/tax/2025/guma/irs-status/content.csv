@@ -1,0 +1,3 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+76a0177d-9ca7-471d-bdb3-2ef593a6bbf9.pdf,9061,1791720941,6453dc321ae460985ec2151f66d09cc6c0ebef86,0,,0,quickxor
+b62d5a55-f80f-44c7-a3d6-f933078273e3.pdf,8751,1791720937,8a2857fd001cf8e929ca3b86c5cafe5c197ac8be,0,,0,quickxor
