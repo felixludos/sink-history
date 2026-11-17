@@ -1,0 +1,9 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Data range-sols.csv,5253,1783210701,e625c134f5f06ba2bc002e48845cd97a2d26b71c,0,,0,quickxor
+Date range-loc-prompt.txt,3420,1783210701,cceca9b30b2644bdd2e5ed825ef1c2ffbd08e80b,0,,0,quickxor
+Date range.CSV,13125,1783210701,076b5c7109bd4facf5bffd5cf6d99b4827ac17ca,0,,0,quickxor
+Date range.json,43889,1783210701,6fe34490eb85dce0c891a662761624fab85a8f5f,0,,0,quickxor
+costco-gu-2022.CSV,5263,1783210701,b0c293075f5581fc4262a294631aa4e73dd26613,0,,0,quickxor
+costco-gu-2023.CSV,8723,1783210701,f7af03cd389574c9860bc58ff5204edc4fcab8c5,0,,0,quickxor
+costco-ma-2022.CSV,5282,1783210701,6a71e6a684a788040ca5b02bbd1460ce84f0bf79,0,,0,quickxor
+costco-ma-2023.CSV,2419,1783210701,b39ae959bdae51479732bf9f5f5678893bff45bf,0,,0,quickxor

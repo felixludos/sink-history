@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Chase8182_Activity20211006_20231006_20231006.CSV,10421,1783210701,6e61a105cb3dac5e5249c196d26a99b6d5bd039b,0,,0,quickxor
+amazon-2022.CSV,7290,1783210701,d42469f418b62bff79eb928b91b42f3b63088cfc,0,,0,quickxor
+amazon-2023.CSV,1993,1783210701,33333126ca2da2a6baa64220205735af31e8bf12,0,,0,quickxor
+amazon.json,36830,1783210701,dc67d312a052955aa356e9951831e1e70c2d2363,0,,0,quickxor

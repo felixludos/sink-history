@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Scan-2026-05-19-20_11_26.pdf,442897,1793983062,6a244f61ed8e0b0f7db53e4081a143c88b41a899,0,,0,quickxor
+Scan-2026-08-11-14_24_10.pdf,733557,1793983062,10ecea8b1940dc4c08ae630c0045431ff9d7869a,0,,0,quickxor
+Scan-2026-08-24-17_25_10.pdf,686612,1793983062,1ed33e01aa637a44cccce40d73bf8c6b63c4140b,0,,0,quickxor

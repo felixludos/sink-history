@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+ecb-usd-eur.csv,786498,1789246042,3d949d4f048ed0e88c64bf6d5591a2a125b577a7,0,,0,quickxor

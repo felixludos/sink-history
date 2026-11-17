@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+household-analysis.md,8232,1789425746,30a013fa5ff7963bc795eff34ad8d0f6a029296a,0,,0,quickxor
+import_dated.py,12711,1789422784,675c385529e3e76e60834af372b5b5d408259611,0,,0,quickxor
+regenerate_reports.py,21564,1789422784,3e231de9b0692d37f8e4ddb0492b0447cfd4069b,0,,0,quickxor
+statement-controls.json,23903,1789421541,3b31b04493b1dd01d4299089f61f6dce8c1c63b3,0,,0,quickxor
+verify_reports.py,2291,1789422893,328a4786f325744b294cec1f6c10e61eceb2513f,0,,0,quickxor

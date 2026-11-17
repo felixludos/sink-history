@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+amazon.json,36866,1783210702,8875001cf0b133be84576215451ce3e19b324e84,0,,0,quickxor
+cashplus.json,10083,1783210702,ba3bb026d807ec0ebe7a1e4dd3eca1616179a5de,0,,0,quickxor
+costco-gu.json,43911,1783210702,ef4d7501a01df29b5de7e9ca638d0bd98ba4ce4d,0,,0,quickxor
+flexperks.json,544660,1783210702,5fbdcc339a7b2016cffe57b3d6263dd1da7c9adc,0,,0,quickxor

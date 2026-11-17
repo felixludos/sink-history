@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+dump.md,169952,1783210701,4a6b9e7a2c56c5e49259f84ce3b94b655bdc2303,0,,0,quickxor
+omnifin.db,348160,1783295480,42c15e0d2ae5b72befe348913047da2e4fedf1c7,0,,0,quickxor
+omnifin_test.db,286720,1783210702,a1079bbcbbabb512a95a5e8783ff70d71ea4e2d5,0,,0,quickxor

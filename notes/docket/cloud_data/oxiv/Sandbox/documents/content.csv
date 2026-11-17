@@ -1,0 +1,7 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+A-single-heading-character.md,328,1794004773,cfafdab3e4075b43904547d53dde1afc6d680d94,0,,0,quickxor
+A-timestamp-a-brief-note-regarding-a-receipt-and-a-redacted-identifier.md,558,1794004773,11a08b409606aec5459889dff8fbf589f43d17eb,0,,0,quickxor
+Incomplete-document-2.md,343,1794004773,60b8b8461ce60bdeb2c1920c7dcd4512af345952,0,,0,quickxor
+Incomplete-document-3.md,343,1794004773,78b07324fbf6ddb3b2d73cec8c6247f10e6459d2,0,,0,quickxor
+Incomplete-document.md,343,1794004773,3bf5f348a8fc18c2e251341478442f82d5e44ad6,0,,0,quickxor
+Microsoft.md,430,1794004773,c988000c3a0238da2a944204bd2332f83fba4a49,0,,0,quickxor

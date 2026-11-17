@@ -1,0 +1,8 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+401k cloud apr-jun.pdf,1957259,1792078800,719ff5ea8dcdc64606b26e2e279093e1bec603e1,0,,0,quickxor
+401k cloud jul-sep.pdf,2273531,1792078680,6ef63b2ef46a8f99ba31c4f0399226ab57db5472,0,,0,quickxor
+401k ms apr-jun.pdf,3281016,1792078800,add0268588a25d73db565702886edf6ca4a8ce0f,0,,0,quickxor
+401k ms jul-sep.pdf,3843683,1792425000,d5403fc4a3aae805f956b74e83b196d26688e7b6,0,,0,quickxor
+"Billing Statement 10_01_26 (111K, PDF).pdf",114348,1792363267,fb210dae799b1dc1fb18db6da1a4806153688618,0,,0,quickxor
+hsa report.pdf,167254,1792078800,7a31fb98e8783b2f0fff0b239a155208ec550846,0,,0,quickxor
+trust report.pdf,205466,1792078800,776699c12eccb85ee6adb3b56adce5c46b0c0c48,0,,0,quickxor

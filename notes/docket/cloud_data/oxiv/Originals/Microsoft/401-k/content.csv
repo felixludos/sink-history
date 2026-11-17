@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+401k-ms-jul-sep.pdf,3843683,1792425000,d5403fc4a3aae805f956b74e83b196d26688e7b6,0,,0,quickxor
+401k_ms_apr-jun_redacted.pdf,6863450,1792365459,d772ef869cdffe809e27b58084e60243200d8903,0,,0,quickxor
+401k_ms_jul-sep_redacted.pdf,9269258,1792433695,56cdd8aee877e6aa334375150dc2f132e87e4ad8,0,,0,quickxor
+Scan-2026-10-11-11_01_34.pdf,1901523,1793983062,bf3310fe61e8b597830f3fbe8d22c3804b1f5455,0,,0,quickxor

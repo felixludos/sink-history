@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+novo.db,671744,1783210701,1db4247e474d23e408b60a848ff9a65a5c72f5e6,0,,0,quickxor
+novo.db-journal,12824,1783210701,e20123e7babddded42718e1e17aefbea0b2fa7b5,0,,0,quickxor
+omnifin.db,0,1703137880,0000000000000000000000000000000000000000,0,,0,quickxor
+scratch.txt,154,1783210701,163d4c2ccfab788bbde1aa132cdec58c60e763cd,0,,0,quickxor
+test-novo.db,507904,1783210701,9adffe09fe2d7249d43a2e06349e21770a76ca6a,0,,0,quickxor

@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Scan-Doc-2026-11-02.pdf,3875806,1793983062,f45430821283448a332cd5ed65d612359db71aa9,0,,0,quickxor

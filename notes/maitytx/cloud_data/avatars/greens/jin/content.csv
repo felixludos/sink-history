@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+greenscreen.png,1859123,1778691882,2df542d1cefd1bf5dabd55df8e8354bcc70fa11b,0,,0,quickxor
+monochrome.png,685506,1778692866,d849fa69531a2a47318b495095d99bdfd98fd366,0,,0,quickxor
+thumbnail.png,110644,1778691882,94666da789371204f8ce9e137ef2d91d2073df72,0,,0,quickxor
+transparent.png,1554099,1778691882,dcbb8c3612130eea186e8f257a7d64ff309ac2e8,0,,0,quickxor

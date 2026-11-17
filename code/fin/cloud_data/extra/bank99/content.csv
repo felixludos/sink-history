@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+fema-raw.csv,8539,1783210701,605f7156deecfc51463508b98caa8e9090c0dc58,0,,0,quickxor
+fema-raw.csv~,8476,1783210701,5a5003857e2cc2d731ef405062c3edf74cd2ee78,0,,0,quickxor
+gu-raw.csv,16078,1783210701,3dfdf313203f965708921e4de625430352a0970e,0,,0,quickxor

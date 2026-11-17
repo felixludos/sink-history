@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+fidelity_activity.csv,14274,1788971129,e37a4d892a7a418e5e387a8ec3c927301930ab05,0,,0,quickxor
+fidelity_sales.csv,11956,1788971129,4c16f81161ddf0213934bf57821cb8e62f33a22f,0,,0,quickxor
+ibkr.csv,78360,1788971129,fa3151ef0a242dc37f3cc27e7d07ab974c69b76f,0,,0,quickxor

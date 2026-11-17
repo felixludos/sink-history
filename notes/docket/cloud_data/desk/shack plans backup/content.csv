@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+shack-full.sh3d,9064,1780524223,0d01ab7331ed76fc6c5bb6fa8b176c5754c2b625,0,,0,quickxor
+shack-lot.sh3d,40668,1780524223,847593431d8e1ff53ab77909dcf94fc331fb6318,0,,0,quickxor
+shack-lower.sh3d,171361,1780524223,cc76b9060aea799d2200e704e25b9dd8999e2298,0,,0,quickxor
+shack-staircase.sh3d,76742,1780524224,73a0ce08889af9adec7b3effc1abf91102e0c7d9,0,,0,quickxor
+shack-upper.sh3d,511056,1780524224,9765ac0fcb5e384668751714c7695141af002a9b,0,,0,quickxor

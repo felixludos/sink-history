@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+gu cash jun26 week1 photo.jpg,675476,1781474591,75ad51d8bff3ec58d2fe5cebd5781360776e965f,0,,0,quickxor
+gu cash jun26 week1.jpg,706204,1781474574,65bddc73ddd523f4787921ae9dd835c212f2a40e,0,,0,quickxor
+gu cash jun26 week2.jpg,1243403,1781474610,50ef0fbbc1bcf10e66e5d12517109edcc75f8d64,0,,0,quickxor

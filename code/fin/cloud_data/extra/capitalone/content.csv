@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+capital_one_transactions.csv,40205,1783210701,dcfd3e0a06205f80a1826c8909dc6b2c1eeec11a,0,,0,quickxor
+capitalone-2022.csv,15614,1783210701,a7635a3707a2040d3fba2977154ee92f3dae4cb5,0,,0,quickxor
+capitalone-2023.csv,4073,1783210701,7e7e51c404acdf7e46731433fa184d4b6f6f0e8d,0,,0,quickxor

@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+known_securities.jsonl,35416,1789001548,fecbdf8a1030d873f83a08ed3d7d1c93ae8c0fe2,0,,0,quickxor

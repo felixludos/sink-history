@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+output_t2v.mp4,1871213,1785778993,017250946b24bb4b3dcccd0bedb12143a91a2737,0,,0,quickxor
+output_t2v_distill.mp4,2032313,1785778993,0428a34575f69177e6c9f5262d176f6ce6f8707f,0,,0,quickxor
+output_t2v_refine.mp4,15390774,1785778993,db353c9a451713fb9e808b6e1c766b6cbae2288c,0,,0,quickxor

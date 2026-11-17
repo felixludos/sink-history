@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+controls.json,7707,1789425635,29ee5e3d6de69255cee67e6f10e4ba3ebcef90d3,0,,0,quickxor
+decision-evidence.md,2792,1789425635,733dd2325dde15036dd264c7396ac5dfd77ef7b7,0,,0,quickxor
+prepare_inputs.py,10533,1789425554,194502f12a31576cd69473488f55b9fdf727e64e,0,,0,quickxor
+regenerate_reports.py,23196,1789425698,0336b93849f4e004f96d24857b115a12696a66d6,0,,0,quickxor
+verify_reports.py,6012,1789425635,9c5cff3f0c7e9f49468ec70b857dc896db9b5fdf,0,,0,quickxor

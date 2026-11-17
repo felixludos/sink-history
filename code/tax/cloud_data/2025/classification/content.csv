@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+batch.csv,70063,1789246255,ddcfd6e34ce895cbdd48a5dcc1d38c73de48b537,0,,0,quickxor
+batch.instructions.md,4007,1789246255,2c572f3d46f21dd7bf5d238322a459efc5fe4518,0,,0,quickxor
+batch.manifest.json,75100,1789246255,5aa8ecbbea496172cfa68b5b8dab189106babdad,0,,0,quickxor

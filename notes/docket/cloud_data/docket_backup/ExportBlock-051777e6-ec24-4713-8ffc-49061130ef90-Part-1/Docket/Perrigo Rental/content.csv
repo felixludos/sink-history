@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+image.png,322493,1776436756,b7869007d52b9231b7972856b22278ceaf62a329,0,,0,quickxor

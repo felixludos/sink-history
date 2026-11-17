@@ -1,0 +1,23 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+01.mp3,2656572,1785760862,27f907f392d73fc14299525b7eacbccfb5b0493d,0,,0,quickxor
+EBX_AI_Assistant_Demo_Customer_Ready_Voice_Over_Script.docx,41494,1784319343,7094cdabfa3dc64c7c5da1ac656e0f5561d4177e,0,,0,quickxor
+Production Notes.docx,141311,1784319355,5e4d56412105d95d1226e43a1bacf7e047733f85,0,,0,quickxor
+clip_05_events.json,4019,1785884159,b043872cfa3fda05bdf6fc312a465211dcd23534,0,,0,quickxor
+clips.txt,447,1785873919,90733a0a144cb40157b17c97d02c69d2b4fd5198,0,,0,quickxor
+ebx-segment-1.mp4,6636735,1785892920,9f0c236f056567515a436d34820995ebb4d90a1d,0,,0,quickxor
+ebx_planning_request.json,598,1785892512,9944ab33eb7f28ace30b9ecb1cd7af6bb379637c,0,,0,quickxor
+ebx_request.json,9474,1785892450,f8c4b3a2d2d2249c494da65b81bc138de08fa87d,0,,0,quickxor
+full_script.md,18860,1784910215,785131b67576503170a9bb194314a990b3557d50,0,,0,quickxor
+manual_enhanced.json,7056,1785894959,db264923bdb9e2d5d3af51b860cb9324ca89206e,0,,0,quickxor
+planning_request_example.json,1385,1785888292,d39fb2d5d0f26dca01cd3e435afd530f83a100f3,0,,0,quickxor
+production_notes.md,1907,1784910163,eff2874f22b9959600a249aac7186c56144f672c,0,,0,quickxor
+script.md,1563,1785877892,4ef1c4009e0faf93535e034dfaf274ab2dd2cd5b,0,,0,quickxor
+script_drafts.md,16177,1785794613,c63a5747299486586c24bc2cd802ff870f2dc99b,0,,0,quickxor
+script_tts.mp3,408384,1785876677,11880aba584798d3df5122e97473df721fefe0fe,0,,0,quickxor
+segment1.mp3,4121475,1785874284,5c5a822612c591d7f68c72246c5131c73573eee3,0,,0,quickxor
+segment1.mp4,96957457,1785873923,e53cd115a7e407a8ba3eb4b3018b29c257aae340,0,,0,quickxor
+segment1_noaudio.mp4,92458620,1785891680,6b07fd8951b8835af284b63f077838a008ca73f3,0,,0,quickxor
+tts_events.json,5000,1785887820,a7cea24c2a2e36627146af068a9dcb70da159112,0,,0,quickxor
+tts_events_inhouse.json,3578,1785889693,e16398d27bdab61a725c794db0dc8dbcdd68aa9a,0,,0,quickxor
+video_events.json,9305,1785889451,14c287296942839f8195485c084a745319d38804,0,,0,quickxor
+video_events_inhouse.json,5890,1785889312,a7365b5b730bc89d0c70511b0f6ced666ccae1b9,0,,0,quickxor

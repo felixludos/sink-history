@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+KING-COUNTY-ASSESSOR.md,6679,1794004773,0c8eb6c9352f32e3db81ade3ee5f27f76e6292d3,0,,0,quickxor
+Seattle-Department-of-Construction-Inspections.md,6053,1794004773,e12ac5dca10a2f6eea547f272a1d78810fc22b37,0,,0,quickxor
+Wells-Fargo-Home-Mortgage.md,2430,1794004773,25ace279f19a63346d9335d6212ab57c4fc1a2e1,0,,0,quickxor

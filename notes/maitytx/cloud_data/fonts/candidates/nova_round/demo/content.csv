@@ -1,0 +1,9 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+NovaRound-Bold.pdf,58928,1780919749,58869c979137d30bb5cf3e0de83b9d96c1d51d8d,0,,0,quickxor
+NovaRound-BoldOblique.pdf,66687,1780919749,f0b7baa2b340038f8a9ef33fa784278a51a2edbc,0,,0,quickxor
+NovaRound-Book.pdf,58965,1780919751,47d3cd2a83d5470215ae6a1bf07750cc6eb0326b,0,,0,quickxor
+NovaRound-BookOblique.pdf,70510,1780919751,8caf140f211e6f86b9c8acaf85eb1091ce2b3677,0,,0,quickxor
+NovaRoundSlim-Bold.pdf,57752,1780919752,9de0fb85f9f42a55000d2cc3df68b088ead2ddd9,0,,0,quickxor
+NovaRoundSlim-BoldOblique.pdf,64257,1780919753,d9fc8e50137cf0d51d2f83cdf68f4bafc7972fb4,0,,0,quickxor
+NovaRoundSlim-Book.pdf,58423,1780919753,5e02a8476c3a8d4bf36edbd94569cc74b4a178c5,0,,0,quickxor
+NovaRoundSlim-BookOblique.pdf,66972,1780919753,cb120c519407c639fe6d1e5b30b30d546e843015,0,,0,quickxor

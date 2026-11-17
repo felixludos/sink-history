@@ -1,0 +1,3 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+TRIP - ex East Africa 2023 7bbc186b637647868cb2bf387d3c3583.csv,47,1776436822,a26cb33b9aaa593c404ba78d8e8c158bb3c0574c,0,,0,quickxor
+TRIP - ex East Africa 2023 7bbc186b637647868cb2bf387d3c3583_all.csv,47,1776436822,a26cb33b9aaa593c404ba78d8e8c158bb3c0574c,0,,0,quickxor

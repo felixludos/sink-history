@@ -1,0 +1,8 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+README.md,3610,1789317285,1fa8a73b04531e8d516fe1268bab7f626a1e8839,0,,0,quickxor
+ibkr-everything-2021.xml,2266834,1789316422,19597e6f79b629aebdd0fc9ba56333e27320f956,0,,0,quickxor
+ibkr-everything-2022.xml,58080195,1789316422,1df4f0aa1e0322e42e971454df2dcae7166f4ed5,0,,0,quickxor
+ibkr-everything-2023.xml,51016619,1789316422,36784b0a2a6140e857fbeab060b34eedb5022a1b,0,,0,quickxor
+ibkr-everything-2024.xml,37082424,1789316422,0e397214ccc4a10a22c74a3b383971016c627502,0,,0,quickxor
+ibkr-everything-2025.xml,39332927,1789316422,1d2efd93f1f52e7ef21a89df200d36fa8c75ca22,0,,0,quickxor
+ibkr-everything-2026-partial.xml,22480301,1789316422,ec97451a195b58ba8dc0f3e204ce04d6059a27f3,0,,0,quickxor

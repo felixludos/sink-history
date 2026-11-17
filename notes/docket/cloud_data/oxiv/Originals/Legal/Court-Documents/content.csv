@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+4419_001.pdf,359786,1792078740,9b4f60b08b5c618f8fad4b180910d4121c80a1fd,0,,0,quickxor
+Leeb_StatementAmandaLeeb_DVPO.pdf,478498,1789505123,8fbfa39b4a02ede2450da7c732e5ce7e7df8a407,0,,0,quickxor
+Scan-2026-08-02-21_31_08.pdf,391999,1793983062,66648aaaaed7340f65c607da1807260ba9232e70,0,,0,quickxor
+tempDVPO.pdf,523317,1789505123,abd7707b88aab1c3336dcececa92ec31b9e7612f,0,,0,quickxor

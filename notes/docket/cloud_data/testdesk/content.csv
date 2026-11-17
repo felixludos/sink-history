@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+IMPORTANT.rtf,789,1780526626,241f3c8410d3aaff8b37c045286b330c3b7590d8,0,,0,quickxor
+masterkey.cryptomator,329,1780526626,c287daf43c9f9c1b5a2f9faf37062130d6e25df6,0,,0,quickxor
+masterkey.cryptomator.C30BAD58.bkup,329,1780526717,c287daf43c9f9c1b5a2f9faf37062130d6e25df6,0,,0,quickxor
+vault.cryptomator,283,1780526626,68047dc85f0ca80d108c4fde987072a3766270ca,0,,0,quickxor
+vault.cryptomator.7718B78C.bkup,283,1780526626,68047dc85f0ca80d108c4fde987072a3766270ca,0,,0,quickxor

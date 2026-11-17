@@ -1,0 +1,3 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+Meal Planning 6785cf60db2b4a278d2512390f05e904.csv,357,1776436784,086b85e2a3cfaf8f3a89587196bb2e1eca3d18b6,0,,0,quickxor
+Meal Planning 6785cf60db2b4a278d2512390f05e904_all.csv,535,1776436784,4b62f12ae85fe27cf5a936abec697996570cff8d,0,,0,quickxor

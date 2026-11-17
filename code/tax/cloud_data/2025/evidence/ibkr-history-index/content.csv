@@ -1,0 +1,7 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+ibkr-2025-dec31-info.index.json,10342,1789317062,d96f3218644e15c87412c9ef221ba628dadf0906,0,,0,quickxor
+ibkr-2025-dec31-info.jsonl,50004,1789317062,eb0731f396bdbee8ae04c4443139cdb32a5bb05b,0,,0,quickxor
+ibkr-2025-jan1-info.index.json,9341,1789317062,7f33e9f937bf39f7d95bc9095060b516fa6e8671,0,,0,quickxor
+ibkr-2025-jan1-info.jsonl,47411,1789317062,86562c81ee04deed4510e7827e754af82bd71aba,0,,0,quickxor
+otax-ai.index.json,69353,1789317062,97f1a15436202fe0f770eb499156cc81837169f6,0,,0,quickxor
+otax-ai.jsonl,310688,1789317062,0b87fd0d01f124491db51d6311a4a23936d27c22,0,,0,quickxor

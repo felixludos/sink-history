@@ -1,0 +1,6 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+FELIX-E-Identifier-120-Rrf17b75a55e.md,1311,1794004773,82fc3e75c19c82225647057c974cecefdce98863,0,,0,quickxor
+Fidelity-2.md,21668,1794004773,982d4d5459aa84abbb47120d9d8852919548beb8,0,,0,quickxor
+Fidelity-3.md,28285,1794004773,ff9e4433ed52cf5a7d811831fd536856c6d276b3,0,,0,quickxor
+Fidelity-4.md,2146,1794004773,5cb25c68d26bd7d5c9feb353969a5e580954e6fe,0,,0,quickxor
+Fidelity.md,3399,1794004773,10c5732f8a5e26a5888e63270b8114bca825fd30,0,,0,quickxor

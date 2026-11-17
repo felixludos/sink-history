@@ -1,0 +1,7 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+accounts 1.yml,5697,1783210701,8e6a7ffb6aab3350f2d89e24c92f5fbaf81efb83,0,,0,quickxor
+accounts.yml,5697,1783210701,8e6a7ffb6aab3350f2d89e24c92f5fbaf81efb83,0,,0,quickxor
+assets 1.yml,3427,1783210701,ac939cd921780fe316835192df11d6d9096f81cb,0,,0,quickxor
+assets.yml,3493,1783210701,1194ba18c158e3abe2f767751d78fbcfd0f91f83,0,,0,quickxor
+omnifin.db,94208,1783210701,2f1562810c6eb339ce4710d0ec590a23d6d55242,0,,0,quickxor
+shortcuts.yml,219,1783210701,ea9b3a9ad8ad8e3cd3b425f43cb6ba439b7d05cb,0,,0,quickxor

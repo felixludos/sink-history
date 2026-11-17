@@ -1,0 +1,7 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+causal-monsters-A0.layout.json,873,1792703002,22527ac0e57f5089d3d25fa242bcbcf298bd4542,0,,0,quickxor
+causal-monsters-A0.pdf,2430816,1792703002,0237f2503457d727344b385fe6a48f7475cbe744,0,,0,quickxor
+fonts.txt,564,1792703094,425e1bb3abf2db6aedd7b8c5092bb58d9bee39a7,0,,0,quickxor
+pdfinfo.txt,650,1792703094,a63ef5733fa57442ed1e208f7f7f8fafc37609db,0,,0,quickxor
+preview.png,921698,1792703003,ccd68a6fd05a362019fe1e0347b3beebbf5e63af,0,,0,quickxor
+verification.txt,769,1792703094,567e0a00f466e35fc372ee4eb8e19fdb8f6de311,0,,0,quickxor

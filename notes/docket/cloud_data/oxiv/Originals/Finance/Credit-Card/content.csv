@@ -1,0 +1,5 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+gurec1.jpg,3171574,1792351260,5e428a46b9c3a1273663e42d611e042d781f2999,0,,0,quickxor
+true_link_blocked_transactions-2026-03-01-2026-06-30-23_59_59-0700.csv,279,1792351260,9e387e96d50f27ca9242f21631ee0f47b187d391,0,,0,quickxor
+true_link_transactions-2026-03-01-2026-06-30.csv,9517,1792351260,602969d449db3b89b272cf8ccd905e463f13293f,0,,0,quickxor
+truelink_jun26.pdf,101806,1792351260,11f41a4ce2b31fbfee2b6dc9f41bcdc0005cccd5,0,,0,quickxor

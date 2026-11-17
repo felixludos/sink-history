@@ -1,0 +1,4 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+ebx-manual.mp4,9373797,1785895119,1303ea74bfcadfc53577edcb83ebb6d3ea391e57,0,,0,quickxor
+ebx-manual_ges_script.json,6492,1785895115,b45259c80d67c3d278d270edf75253b15d4ed174,0,,0,quickxor
+manual_enhanced.json,7056,1785895115,db264923bdb9e2d5d3af51b860cb9324ca89206e,0,,0,quickxor

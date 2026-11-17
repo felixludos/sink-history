@@ -1,0 +1,8 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+artifacts.png,546986,1792702838,750d6f211ddbe179490dad94305d781f5490f5b4,0,,0,quickxor
+biases.png,413257,1792702838,56f86f205a3b333ef4c6bedbfb3559b2fb04e9e7,0,,0,quickxor
+confounding.png,333287,1792702838,ab7c0d2d1bb8a4d48d7e49899b6e28b485a5b39c,0,,0,quickxor
+leakage.png,296868,1792702838,b3bc13b008c9c42853a90c78d0b246634906df98,0,,0,quickxor
+mediation.png,391227,1792702838,6a7bee2e23a1f78001e9c8e53b5cd163e20e7412,0,,0,quickxor
+shortcuts.png,186639,1792702838,fafe0aad45f32a6bd6673df6dec4e84042a4b0ef,0,,0,quickxor
+spurious_correlations.png,307353,1792702838,895784bb90cfbb80ca970d0df455bcf9bb2f0137,0,,0,quickxor

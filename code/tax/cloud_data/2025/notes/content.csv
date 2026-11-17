@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+scratch.md,1901,1789340593,bffa4db5549d5c7885af0b0bcb48be6b70fe546f,0,,0,quickxor

@@ -1,0 +1,11 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+FONTLOG.txt,6540,1780919744,b35ed25d3f61eb3bec02fbc8302afbb3245ed943,0,,0,quickxor
+NovaRound-Bold.ttf,103188,1780914794,acd60af735b123160498f2290926876c38d4d2c4,0,,0,quickxor
+NovaRound-BoldOblique.ttf,126996,1780914794,58dbac7ac071bf1fceadb56a88ea89375b1f1faa,0,,0,quickxor
+NovaRound-Book.ttf,105952,1780914794,84ede8dbe470b44f41998203a3249e34fd2692ce,0,,0,quickxor
+NovaRound-BookOblique.ttf,136752,1780914794,14beef8008db6ca764fe725a17dd922b42d6eb81,0,,0,quickxor
+NovaRoundSlim-Bold.ttf,104988,1780914794,3dac75b3d06a7345a46ad17673dcf92a1458f954,0,,0,quickxor
+NovaRoundSlim-BoldOblique.ttf,132948,1780914794,de38fa0c6343e26f8760cdc6f51775a4e36e853c,0,,0,quickxor
+NovaRoundSlim-Book.ttf,105972,1780914794,65606bddbd67df01fb7b6b00f6544820fab8e989,0,,0,quickxor
+NovaRoundSlim-BookOblique.ttf,138604,1780914794,c8fbddb8ecc75315048b63b30169bec022a7e0a7,0,,0,quickxor
+SIL - Open Font License.txt,4195,1780919749,17b6ed7f4420262d20927b64187ab321fa22ec45,0,,0,quickxor

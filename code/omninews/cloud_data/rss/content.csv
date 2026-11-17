@@ -1,0 +1,2 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+decoding-the-gurus.xml,1295923,1763589306,cb75d370a065eb330304597fa5fc68b2dd8d9757,0,,0,quickxor
