@@ -1,0 +1,7 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+README.md,6181,1795125584,8e003ec1fb7eeaecbe6abfce7f4fab9be551a143,0,,0,quickxor
+bestiary.json,3151,1795131590,40a51f5a96ddcaa9ce3ad7e94d916beaed158af6,0,,0,quickxor
+export-pdf.cjs,6113,1795130836,50d1f45d0b310d905affabede09423312e6dadeb,0,,0,quickxor
+poster-session-notes.md,2892,1795129862,a64d0b3a8f388779a3772396df2ce0ee7aa2ec0b,0,,0,quickxor
+poster-text-review.md,13566,1795131590,2410c4a7cb03f6567b4a194d2778da0abbbac8b0,0,,0,quickxor
+poster.css,10997,1795130117,0145e4c1fbb366bd100ea7121b136cb9bbf3ceae,0,,0,quickxor

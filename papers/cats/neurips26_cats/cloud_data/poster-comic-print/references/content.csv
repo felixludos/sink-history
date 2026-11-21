@@ -1,0 +1,7 @@
+filename,size,modtime,hash,is_symlink,symlink_target,is_executable,hash_algorithm
+bansal-page2.png,541201,1795050513,55c35df7e3ed278c3171a2077647ea705d5bc12d,0,,0,quickxor
+bansal-sharma-2023.pdf,469059,1795050498,eef1e891741833248852f26e6e559118439e9935,0,,0,quickxor
+gardner-2021.pdf,1379666,1795050497,7fa39a44fc96921a1a9975cfb1b09d77373adddf,0,,0,quickxor
+razeghi-2022.pdf,495226,1795050496,22f5ab85db05f533800ac4377aafdc0ac2b8954c,0,,0,quickxor
+razeghi-page1.png,549136,1795050513,a7efdb21205e24e6c32d73013041ae05d32952ce,0,,0,quickxor
+sources.json,1416,1795101042,bb6c73894e2e30bff2c213711cd8e733a2bbef9d,0,,0,quickxor
